@@ -1,0 +1,1 @@
+{"inputs": [[]], "outputs": [[{"class_name": "AddOneDimension", "config": {}}, {"class_name": "LabelEncoder", "config": {"labels": ["neg", "pos"]}}]]}
